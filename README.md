@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou Henrique Silva</h1>
 
-<!--
-**henriquer-silva/henriquer-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Ciência da Computação <br>
+💻 Desenvolvedor Front-end em formação <br>
+📍 São Paulo, Brasil
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (UNICID), atualmente no 2º semestre.
+
+Tenho interesse em desenvolvimento front-end e venho desenvolvendo projetos utilizando HTML, CSS, JavaScript e React.
+
+Atualmente busco uma oportunidade de estágio para aplicar meus conhecimentos e evoluir profissionalmente.
+
+---
+
+## 🚀 Tecnologias
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
