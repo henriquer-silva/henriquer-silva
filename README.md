@@ -31,13 +31,13 @@ Atualmente busco uma oportunidade de estágio para aplicar meus conhecimentos e 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriquer-silva&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquer-silva&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriquer-silva&theme=github_dark" />
 </p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: www.linkedin.com/in/henriquer-silva
-- 📧 hiquer.silvaa@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/henriquer-silva/
+
+📧 **E-mail:** hiquer.silvaa@gmail.com
