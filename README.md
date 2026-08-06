@@ -41,9 +41,7 @@ Venho construindo projetos com HTML, CSS, JavaScript e React para consolidar fun
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquer-silva&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquer-silva&theme=github-dark&hide_border=true" />
 </p>
