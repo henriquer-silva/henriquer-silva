@@ -1,53 +1,79 @@
-<h1 align="center">Henrique Silva</h1>
+# Olá 👋, eu sou o Henrique Silva
 
-<p align="center">
-  Estudante de Ciência da Computação • Desenvolvedor Front-end em formação
-</p>
+🚀 **Estudante de Ciência da Computação | Desenvolvedor Front-end em formação**  
+🇧🇷 São Paulo, Brasil
 
-<p align="center">
-  <img src="https://img.shields.io/badge/São_Paulo-Brasil-blue?style=flat-square"/>
+Venho construindo projetos com **HTML, CSS, JavaScript e React** para consolidar fundamentos de **lógica, componentização e boas práticas de UI**.  
+Busco minha primeira oportunidade como **estagiário(a) de desenvolvimento** para aplicar o que aprendo na prática e crescer junto com um time.
+
+Atualmente, sou estudante de **Ciência da Computação na UNICID**, com foco em desenvolvimento front-end.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
   <a href="https://www.linkedin.com/in/henriquer-silva/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=flat-square&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/henriquer-silva">
+    <img src="https://img.shields.io/badge/GitHub-henriquer--silva-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:hiquer.silvaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hiquer.silvaa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### Sobre mim
+## 🧠 O que eu faço
 
-Estudante de Ciência da Computação na UNICID, com foco em desenvolvimento front-end.
-
-Venho construindo projetos com HTML, CSS, JavaScript e React para consolidar fundamentos de lógica, componentização e boas práticas de UI. Busco minha primeira oportunidade como estagiário(a) de desenvolvimento para aplicar o que aprendo na prática e crescer junto com um time.
-
----
-
-### Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
+-   💻 Desenvolvimento Front-end
+-   🎨 Criação de interfaces de usuário (UI)
+-   🧩 Componentização e Lógica de programação
+-   📚 Aprendizado contínuo em novas tecnologias
+-   🚧 Construção de projetos práticos semanais
 
 ---
 
-### Projetos em destaque
+## 🛠️ Tecnologias
+
+### Front-end & Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📁 Projetos em destaque
 
 > 🚧 Em construção — novos projetos sendo adicionados semanalmente.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| _em breve_ | | |
+| *em breve* | | |
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquer-silva&theme=github-dark&hide_border=true" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriquer-silva&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquer-silva&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### Contato
+## 🚀 Filosofia
 
-📧 hiquer.silvaa@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/henriquer-silva/)
+> _"Aprender na prática, construir com propósito e evoluir a cada linha de código."_
+
+---
+
+⭐ Se gostar do meu trabalho, considere deixar uma estrela nos repositórios  
+🤝 Sempre aberto a colaborações, aprendizados e novas oportunidades
